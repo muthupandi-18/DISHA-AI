@@ -1,0 +1,6 @@
+{
+  "name": "DISHA AI",
+  "description": "AI Powered College, Course & Career Recommendation System for Tamil Nadu Students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
